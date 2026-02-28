@@ -1,49 +1,113 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF9C&height=220&section=header&text=MANISH%20KUMAR&fontSize=45&fontColor=00FF9C&animation=fadeIn&desc=AI%20Developer%20%7C%20Automation%20Engineer%20%7C%20Telegram%20Bot%20Creator"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00FF9C&center=true&vCenter=true&width=700&lines=AI+Assistant+Developer;Python+Automation+Engineer;Building+Smart+Bots;Welcome+to+My+Digital+Lab"/></div>---
+# 🤖 Telegram Multi-Feature Bot
 
-🧠 About Me
+<div align="center">
 
-Name: Manish Kumar
-Role: AI Assistant Developer
-Specialty: Telegram Automation & Python Bots
-System Status: ONLINE ✅
+### Developed by [MANI XTECH](https://t.me/MANI_XTECH)
 
----
-
-⚙️ Tech Arsenal
-
-- 🐍 Python
-- 🤖 Telegram Bot API
-- ⚡ Async Programming
-- ☁️ Cloud Deployment
-- 🧠 Automation Systems
-
----
-
-🚀 Featured Project
-
-🤖 MANISH X AI ASSISTANT
-
-JARVIS-style Telegram automation system.
-
----
-
-📊 GitHub Stats
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=chartreuse-dark"/></div>---
-
-🟢 SYSTEM ACTIVITY
-
-"Profile Views" (https://komarev.com/ghpvc/?username=your-username&color=00FF9C)
-
----
-
-🤖 AI Quote
-
-«“The best way to predict the future is to build it.”»
-
----
-
-<div align="center">⚡ POWERED BY CODE & CURIOSITY ⚡
+![Version](https://img.shields.io/badge/version-5.0-blue)
+![Python](https://img.shields.io/badge/python-3.10+-green)
+![Telegram](https://img.shields.io/badge/telegram-bot-blue)
+![Features](https://img.shields.io/badge/features-200%2B-brightgreen)
 
 </div>
+
+## 📋 Table of Contents
+- [Features](#-features)
+- [Demo](#-demo)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Usage](#-usage)
+- [Commands](#-commands)
+- [Deployment](#-deployment)
+- [Docker](#-docker)
+- [Contributing](#-contributing)
+- [Support](#-support)
+- [License](#-license)
+
+## ✨ Features
+
+### 📥 **Downloader (25+ Features)**
+- YouTube Video/Audio Download
+- Instagram Posts/Reels/Stories
+- Facebook Videos
+- TikTok Videos
+- Twitter/X Videos
+- Pinterest Images
+- Reddit Videos
+
+### 📝 **Text Tools (30+ Features)**
+- Word/Character Counter
+- Text Reverser
+- Case Converter (UPPER/lower/Title)
+- Email Extractor
+- Phone Extractor
+- URL Extractor
+- Password Generator
+- QR Code Generator
+
+### 🧮 **Math Tools (25+ Features)**
+- Basic Calculator
+- Scientific Calculator
+- BMI Calculator
+- Age Calculator
+- Percentage Calculator
+- Discount Calculator
+- Unit Converter
+
+### 🎮 **Games (20+ Features)**
+- Dice Roller
+- Coin Flip
+- Rock Paper Scissors
+- Number Guessing
+- Word Guessing
+- Trivia Quiz
+- Fortune Teller
+- Magic 8 Ball
+
+### 🔧 **Utilities (30+ Features)**
+- File Info
+- Hash Generator (MD5/SHA)
+- Base64 Encode/Decode
+- JSON Formatter
+- Color Converter
+- Morse Code Converter
+- Binary/Hex Converter
+
+### 📊 **Converters (25+ Features)**
+- Length Converter
+- Weight Converter
+- Temperature Converter
+- Area Converter
+- Volume Converter
+- Speed Converter
+- Currency Converter
+
+### 🔐 **Security (20+ Features)**
+- Password Generator
+- Password Strength Checker
+- Caesar Cipher
+- Base64 Encryption
+- Hash Generator
+- File Encryption
+
+### 📁 **File Tools (25+ Features)**
+- File Info
+- Metadata Extractor
+- Type Detector
+- Size Calculator
+- Hash Calculator
+
+**Total: 200+ Features!**
+
+## 🎥 Demo
+
+[Add your bot link here]
+
+## 🚀 Installation
+
+### Local Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/telegram-bot.git
+cd telegram-bot
